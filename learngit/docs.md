@@ -5,4 +5,4 @@ toothbrush.
 Note that this toothbrush is not safe to use for children,
 adults, pets, wildlife, and trees.
 
-Used for the pull request test.
+Used for the pull request test from the master and the branch.
